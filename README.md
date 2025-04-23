@@ -1,4 +1,14 @@
-para verificar el funcionamiento de esto tan solo debes descargar la apk y usar tu emulador previamente instalado,
+mainapp
 
-existe un pequeño error en el login ya que no deja seleccionar con el curson los cuadros de texto, asi que para seleccionar los botones y cuadros de texto debes usar el tabulador y oprimir enter cuando vayas a ingresar o retroceder en los botones del login 
-el que funciona por cursor es el registrate en esa pantalla, es la unica parte que no permite clickear bien
+se trata de una app que permite, crear usuarios, docentes,eliminarlos,editarlos
+
+Características
+
+tiene un pequeño problema en el login en el arregment de ingresar ya que los botones y cuadros de texto no son clickeables, para acceder a cada uno de ellos se debe usar el tabulador, este problema se presenta en pc sin embargo en mobile no.
+
+Tecnologías utilizadas
+
+Kodular
+Firebse
+
+para descargarlo simplemte puedes descargar la apk que se encuentra en este repositorio y abrirla con el emulador de android que tengas
